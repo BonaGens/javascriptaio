@@ -1,6 +1,7 @@
-# Gamelet
+# JavaScript All-in-One for Dummies
 
-A starter program for writting JavaScript games.
+I'm learning JavaScript, React, Vue, Svelte, and Node
+from JavaScript All-in-One for Dummies...
 
 ## Usage
 
